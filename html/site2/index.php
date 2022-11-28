@@ -1,4 +1,13 @@
-
-<?php 
-    echo "<h3>HOLA desde el sitio 2</h3>";
+<html>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body>
+ <?php 
+ 
+ echo '<p>Hola Mundo</p>'; 
+ phpinfo();
+ 
 ?>
+ </body>
+</html>
